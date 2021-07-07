@@ -1,0 +1,308 @@
+[
+  {
+    "name": "bundler",
+    "licenses": [
+      {
+        "license": "MIT",
+        "confidence": 0.9325153
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.8125
+      }
+    ]
+  },
+  {
+    "name": "curl",
+    "licenses": [
+      {
+        "license": "curl",
+        "confidence": 1
+      },
+      {
+        "license": "SSH-short",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "name": "dotnet-aspnetcore",
+    "licenses": [
+      {
+        "license": "MIT",
+        "confidence": 0.94011974
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.81595093
+      }
+    ]
+  },
+  {
+    "name": "dotnet-runtime",
+    "licenses": [
+      {
+        "license": "MIT",
+        "confidence": 0.94011974
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.81595093
+      }
+    ]
+  },
+  {
+    "name": "dotnet-sdk",
+    "licenses": [
+      {
+        "license": "MIT-0",
+        "confidence": 0.81595093
+      },
+      {
+        "license": "MIT",
+        "confidence": 0.94011974
+      }
+    ]
+  },
+  {
+    "name": "go",
+    "licenses": [
+      {
+        "license": "BSD-3-Clause",
+        "confidence": 0.9306931
+      }
+    ]
+  },
+  {
+    "name": "httpd",
+    "licenses": [
+      {
+        "license": "Spencer-94",
+        "confidence": 0.9337748
+      },
+      {
+        "license": "BSD-3-Clause",
+        "confidence": 0.97652584
+      },
+      {
+        "license": "RSA-MD",
+        "confidence": 0.9312977
+      },
+      {
+        "license": "Beerware",
+        "confidence": 0.9583333
+      },
+      {
+        "license": "Apache-2.0",
+        "confidence": 1
+      },
+      {
+        "license": "ECL-2.0",
+        "confidence": 0.8761062
+      },
+      {
+        "license": "SHL-0.5",
+        "confidence": 0.8312263
+      },
+      {
+        "license": "SHL-0.51",
+        "confidence": 0.8318584
+      }
+    ]
+  },
+  {
+    "name": "icu",
+    "licenses": [
+      {
+        "license": "Unicode-TOU",
+        "confidence": 1
+      },
+      {
+        "license": "BSD-3-Clause",
+        "confidence": 0.8649789
+      }
+    ]
+  },
+  {
+    "name": "nginx",
+    "licenses": [
+      {
+        "license": "BSD-2-Clause",
+        "confidence": 0.9270833
+      }
+    ]
+  },
+  {
+    "name": "node",
+    "licenses": [
+      {
+        "license": "0BSD",
+        "confidence": 0.9230769
+      },
+      {
+        "license": "Unicode-TOU",
+        "confidence": 1
+      },
+      {
+        "license": "CC0-1.0",
+        "confidence": 1
+      },
+      {
+        "license": "BSD-3-Clause-Clear",
+        "confidence": 0.8387097
+      },
+      {
+        "license": "BSD-3-Clause",
+        "confidence": 0.9860465
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.8148148
+      },
+      {
+        "license": "MIT",
+        "confidence": 0.93939394
+      },
+      {
+        "license": "Artistic-2.0",
+        "confidence": 0.97969925
+      },
+      {
+        "license": "BSD-2-Clause",
+        "confidence": 0.97849464
+      },
+      {
+        "license": "Apache-2.0",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "name": "php",
+    "licenses": [
+      {
+        "license": "PHP-3.01",
+        "confidence": 0.974359
+      },
+      {
+        "license": "PHP-3.0",
+        "confidence": 0.960373
+      }
+    ]
+  },
+  {
+    "name": "pip",
+    "licenses": [
+      {
+        "license": "MIT",
+        "confidence": 0.9325153
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.8125
+      }
+    ]
+  },
+  {
+    "name": "pipenv",
+    "licenses": [
+      {
+        "license": "MIT",
+        "confidence": 0.94011974
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.81595093
+      }
+    ]
+  },
+  {
+    "name": "python",
+    "licenses": [
+      {
+        "license": "CNRI-Python-GPL-Compatible",
+        "confidence": 0.8992933
+      }
+    ]
+  },
+  {
+    "name": "ruby",
+    "licenses": [
+      {
+        "license": "deprecated_GPL-2.0",
+        "confidence": 0.98737204
+      },
+      {
+        "license": "GPL-2.0-only",
+        "confidence": 0.98668945
+      },
+      {
+        "license": "GPL-2.0-or-later",
+        "confidence": 0.98737204
+      },
+      {
+        "license": "MIT",
+        "confidence": 0.9263804
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.80625
+      },
+      {
+        "license": "Ruby",
+        "confidence": 0.9009009
+      },
+      {
+        "license": "deprecated_GPL-2.0+",
+        "confidence": 0.96790713
+      }
+    ]
+  },
+  {
+    "name": "rust",
+    "licenses": [
+      {
+        "license": "Apache-2.0",
+        "confidence": 1
+      },
+      {
+        "license": "MIT",
+        "confidence": 1
+      },
+      {
+        "license": "ECL-2.0",
+        "confidence": 0.7760869
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.8125
+      }
+    ]
+  },
+  {
+    "name": "tini",
+    "licenses": [
+      {
+        "license": "MIT",
+        "confidence": 0.94011974
+      },
+      {
+        "license": "MIT-0",
+        "confidence": 0.81595093
+      }
+    ]
+  },
+  {
+    "name": "yarn",
+    "licenses": [
+      {
+        "license": "BSD-2-Clause",
+        "confidence": 1
+      },
+      {
+        "license": "BSD-2-Clause-NetBSD",
+        "confidence": 0.9076087
+      }
+    ]
+  }
+]
